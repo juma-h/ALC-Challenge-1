@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="name">Juma Michelle</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country">Country: Kenya</string>
+    <string name="phone_no">Phone Number: 0736948967</string>
+    <string name="slack">Slack username: @Juma</string>
+    <string name="email">E-mail: mitchfibi@gmail.com</string>
+    <string name="internet_available">internet_connected</string>
+    <string name="internet_unavailable">not connected</string>
+    <string name="welcome">Welcome to ALC 4.0!</string>
+</resources>

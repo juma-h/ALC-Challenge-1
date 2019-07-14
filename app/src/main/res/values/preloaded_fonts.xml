@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/asset</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/days_one</item>
+        <item>@font/ubuntu_mono_bold</item>
+    </array>
+</resources>
